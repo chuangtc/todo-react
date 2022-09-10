@@ -1,4 +1,9 @@
 # How to run todo-app and deploy to Firebase
+Date:　2022-09-10
+## Git repsository
+```
+git clone https://github.com/chuangtc/todo-react.git
+```
 ## Software version
 * React 18.2.0
 
@@ -44,9 +49,12 @@ Open browser, and type in the following
 
 http://localhost:5000
 
-## Step5 Deploym to firebase
+## Step5 Deploy to firebase
 ```
 firebasae deploy
 ```
 ## Check deployed website
 https://react-todo-656ce.web.app/
+
+## Or visit the website for demo
+https://chuangtc.com/react-todo/
